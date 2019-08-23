@@ -1,0 +1,10 @@
+/.ignored/
+/.vscode/
+
+/build/
+/dist/
+/*.egg-info/
+/venv/
+__pycache__/
+
+*.pd
